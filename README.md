@@ -13,7 +13,7 @@
 
 ## Tech stack & Open-source libraries
 
-<img src="https://github.com/MariaLuiza-CS/Dictionary-App/blob/master/app/src/debug/res/drawable/rectangle_two.png" align="right" width="320"/>
+<img src="https://github.com/MariaLuiza-CS/Dictionary-App/blob/master/app/src/debug/res/drawable/rectangle_two.png" align="right" width="400"/>
 
 - [Kotlin](https://kotlinlang.org/) based and [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) plus [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
 - Lifecycle: Observe Android lifecycles and handle UI states upon the lifecycle changes.
