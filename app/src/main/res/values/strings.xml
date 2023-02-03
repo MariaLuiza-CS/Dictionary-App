@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DictionaryAPI</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ct_image_favorite">Image of a man with a balloon sitting on the chair</string>
+    <string name="tv_not_favorite_word">Ops! Look like you do not \n have any favorite word</string>
+    <string name="tv_not_search">Ops! Look like you \n did not search any word</string>
+    <string name="ct_image_history">image of woman sitting on the chair reading</string>
+    <string name="ct_play_button">play button</string>
+    <string name="tv_meanings">Meanings</string>
+    <string name="ct_fab_favorite">floating button to add favorite word</string>
+    <string name="tv_hello_you">Hello, you!</string>
+    <string name="tv_want_to_learn">which word do you want to learn ?</string>
+    <string name="ct_clock_reloading">image_of_a_clock_reloading</string>
+    <string name="menu_words">Words</string>
+    <string name="menu_history">History</string>
+    <string name="menu_favorites">Favorites</string>
+</resources>
