@@ -20,6 +20,7 @@
 - Navigation Component: To navigate between screens.
 - ViewModel: Manages UI-related data holder and lifecycle aware. Allows data to survive configuration changes such as screen rotations.
 - UseCases: Simplifies the ViewModel and creates a bridge between the ViewModel and the Repository.
+- [Figma](https://www.figma.com/file/RLRRsRTRVeBidrFXZdAFNL/Dictionary-App?node-id=0%3A1&t=lJfD76Eop3t78dtH-1): To create design of the app.
 - Room: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
 - [Koin](https://insert-koin.io/): For dependency injection.
 - Media Player: To control the audio mp3 file.
