@@ -13,7 +13,7 @@
 
 ## Tech stack & Open-source libraries
 
-<img src="https://github.com/MariaLuiza-CS/Dictionary-App/blob/master/app/src/debug/res/drawable/rectangle_two.png" align="right" width="400"/>
+<img src="https://github.com/MariaLuiza-CS/Dictionary-App/blob/master/app/src/debug/res/drawable/group_six.png" align="right" width="250"/>
 
 - [Kotlin](https://kotlinlang.org/) based and [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) plus [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
 - Lifecycle: Observe Android lifecycles and handle UI states upon the lifecycle changes.
@@ -33,6 +33,18 @@
 
 <br><br/>
 
+## Architecture
+
+<p align="center">
+<img src="https://developer.android.com/static/topic/libraries/architecture/images/mad-arch-overview.png?hl=pt-br"align="right" width="250"/>
+</p>
+
+The app is based on the MVVM architecture and the Repository pattern, which follows the Google's official architecture guidance.<br>
+The overall architecture of Dictionary is composed by three layers.<br> 
+Each layer has dedicated components and they have each different responsibilities.
+
+<br><br/>
+
 ## Open API
 
 Dictionary App using the [Dictionary API](https://dictionaryapi.dev/) for constructing RESTful API.<br>
@@ -42,17 +54,18 @@ API that they can use to build a game, learning application, or next-generation 
 
 ## Company
 
-<img src="https://coodesh.com/images/svg/logos/logo.svg" align="right" width="21%"/>
+<img src="https://coodesh.com/images/svg/logos/logo.svg" align="right" width="15%"/>
 
 This is a challenge from __[Coodesh](https://coodesh.com/)__ .<br>
 Platform to evaluate and recruit developers. 100% remote jobs for developers.
 
 <br><br/>
 
-## Find this repository useful? :heart:
+## Find this repository useful?
 
 Support it by joining __[stargazers](https://github.com/MariaLuiza-CS/Dictionary-App/stargazers)__ for this repository. :star: <br>
 Also, __[follow me](https://github.com/MariaLuiza-CS)__ on GitHub for my next apps! or:
+ <br><br/>
  <div>
   <a href="https://www.linkedin.com/in/marialuiza-0/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://medium.com/@m.luiza.0"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
